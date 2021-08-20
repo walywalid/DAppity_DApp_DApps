@@ -8,3 +8,5 @@ The tools used for the Dapps are as follows :
 - Python
 - Ganache
 - Metamask
+
+You can download and playy around with these apps to learn how to develop your own!
